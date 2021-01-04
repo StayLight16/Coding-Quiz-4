@@ -4,7 +4,15 @@
     position: absolute;
     left: 31%;
     top: 20%;
-    width: 450%;
-    height: 450%;
+    width: 480px;
+    height: 480px;
     border: 2px solid green;
+}
+
+#questionsDiv {
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
 }
