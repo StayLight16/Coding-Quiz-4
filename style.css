@@ -27,19 +27,25 @@ color: white;
 
 #goBack {
     background-color: green;
-    margin-left: 33%;
-    padding: 10px 30px;
     font-size: 15px;
     color: white;
+    padding: 15px;
+    left: 60%;
+    top: 25%;
+    text-align: center;
+    width: auto;
+    position: relative;
 
 }
 
 #clear {
     background-color: green;
-    margin-left: 33%;
-    padding: 10px 30px;
-    font-size: 20px;
+    font-size: 15px;
+    padding: 10px; 
     color: white;
+    right: 5%;
+    top: 25%;
+    text-align: center;
 
 
 
