@@ -31,3 +31,18 @@ var questions = [
 
 ];
 
+//Declaring variables for use
+
+var score = 0;
+var questionIndex = 0;
+
+//Declaring variables & DOM method stuff
+var wrapper = document.querySelector("#wrapper");
+var questionsDiv = document.querySelector("#questionsDiv");
+var timer = document.querySelector("#startTime");
+var currentTime = document.querySelector("#currentTime");
+
+
+
+
+
