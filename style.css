@@ -24,3 +24,23 @@ padding: 10px 30px;
 font-size: 20px;
 color: white;
 }
+
+#goBack {
+    background-color: green;
+    margin-left: 33%;
+    padding: 10px 30px;
+    font-size: 15px;
+    color: white;
+
+}
+
+#clear {
+    background-color: green;
+    margin-left: 33%;
+    padding: 10px 30px;
+    font-size: 20px;
+    color: white;
+
+
+
+}
