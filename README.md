@@ -18,4 +18,4 @@ THEN I can save my initials and score
 
 In order to meet criteria, I had to complete various tasks within Javascript. I think things turned out fairly okay. This will serve as a useful exercise to sharpen my javascript coding skills. I'll for sure need it, lol. 
 
-Deployed version: 
+Deployed version: https://staylight16.github.io/Coding-Quiz-4/index.html 
