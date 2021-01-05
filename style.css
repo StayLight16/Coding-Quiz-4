@@ -48,5 +48,37 @@ color: white;
     text-align: center;
 
 
+}
 
+li {
+    background-color: green;
+    color: white;
+    padding: 5px 15px;
+    width: 80%;
+    font-size: 18px;
+
+
+}
+
+#Submit {
+    background-color: green;
+    margin-left: 33%;
+    padding: 15px 32px;
+    font-size: 20px;
+    color: white;
+
+}
+
+button {
+    border-radius: 8px;
+}
+
+#createDiv {
+    margin-top: 20px;
+    border-top: 1px solid lightgray;
+}
+
+textarea {
+    width: 90%;
+    margin: 20px;
 }
