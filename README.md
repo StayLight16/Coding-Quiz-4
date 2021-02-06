@@ -16,6 +16,23 @@ WHEN the game is over
 THEN I can save my initials and score
 ```
 
+# Technologies Used: 
+* HTML
+* CSS
+* Javascript
+
+
+# Project Explanation: 
+Application uses pop-up confirm boxes to identify user's password criteria. The application then generates a random password based on user's criteria. 
+
+# Screenshots
+<img src = "">
+<img src = "">
+<img src = "">
+<img src = "">
+
+
+
 In order to meet criteria, I had to complete various tasks within Javascript. I think things turned out fairly okay. This will serve as a useful exercise to sharpen my javascript coding skills. I'll for sure need it, lol. 
 
 Deployed version: https://staylight16.github.io/Coding-Quiz-4/index.html 
