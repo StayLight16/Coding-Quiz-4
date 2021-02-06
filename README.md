@@ -1,4 +1,4 @@
-# Coding-Quiz-4
+# Coding Quiz 4
 
 The Coding Quiz we were assigned to build had to meet the following criteria:
 
@@ -23,16 +23,17 @@ THEN I can save my initials and score
 
 
 # Project Explanation: 
-Application uses pop-up confirm boxes to identify user's password criteria. The application then generates a random password based on user's criteria. 
+Application run a quiz that ask questions about JavaScript. Application switches text dynamically as questions are answered. After completing quiz, the score is computed and stored on local storage.
 
 # Screenshots
-<img src = "">
-<img src = "">
-<img src = "">
-<img src = "">
+<img src = "Images/AppStartingScreen.png">
+<img src = "Images/QuizQuestion.png">
+<img src = "Images/Score.png">
+<img src = "Images/HighScoreRoster.png">
 
 
 
 In order to meet criteria, I had to complete various tasks within Javascript. I think things turned out fairly okay. This will serve as a useful exercise to sharpen my javascript coding skills. I'll for sure need it, lol. 
 
+# Live Link of Deployed App
 Deployed version: https://staylight16.github.io/Coding-Quiz-4/index.html 
